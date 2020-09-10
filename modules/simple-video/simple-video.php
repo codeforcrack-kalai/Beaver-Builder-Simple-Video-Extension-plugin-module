@@ -19,7 +19,7 @@ class FLSimpleVideo extends FLBuilderModule {
         parent::__construct(array(
             'name'          => __('Simple Video', 'fl-builder'),
             'description'   => __('An basic module for Adding Video.', 'fl-builder'),
-            'group'           => __( 'My Group', 'fl-builder' ),
+            'group'           => __( 'Power BB', 'fl-builder' ),
             'category'		=> __('Simple Video', 'fl-builder'),
             'dir'           => FL_MODULE_SIMPLE_VIDEO_DIR . 'modules/simple-video/',
             'url'           => FL_MODULE_SIMPLE_VIDEO_URL . 'modules/simple-video/',
